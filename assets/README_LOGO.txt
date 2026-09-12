@@ -1,0 +1,1 @@
+Place your 425x425 transparent logo.png in this folder.
